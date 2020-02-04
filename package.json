@@ -1,0 +1,53 @@
+{
+  "_from": "cashfreereactnativepg",
+  "_id": "cashfreereactnativepg@3.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-uOWl3MnBqAvr79tCqmODt/u1nfvLm+Dw1lEBIgD09+efVnEY5xOoUvaq/OJ48GxOAlJBKQbOJ5wPsqMPfUTb5w==",
+  "_location": "/cashfreereactnativepg",
+  "_phantomChildren": {
+    "loose-envify": "1.4.0",
+    "object-assign": "4.1.1",
+    "react-is": "16.8.5"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cashfreereactnativepg",
+    "name": "cashfreereactnativepg",
+    "escapedName": "cashfreereactnativepg",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cashfreereactnativepg/-/cashfreereactnativepg-3.2.0.tgz",
+  "_shasum": "ca556e513425daa506eeecf7fc560d09507be5de",
+  "_spec": "cashfreereactnativepg",
+  "_where": "C:\\Users\\A252898\\Documents\\2ndStart\\ReactNative\\npmInstall",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "prop-types": "^15.7.2",
+    "react-native-webview": "*"
+  },
+  "deprecated": false,
+  "description": "React Native module for Cashfree's PG integration",
+  "directories": {
+    "test": "test"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "cashfreereactnativepg",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "npm"
+  },
+  "version": "3.2.0"
+}
